@@ -14,5 +14,4 @@ def agencia_viajes():
     print("Pasajeros:",pasajeros)
     print("Costo por pasajero: $",costo_pasajero)
     print("Total a pagar: $",total_pagar)
-
 agencia_viajes()
